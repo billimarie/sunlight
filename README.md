@@ -9,3 +9,4 @@ Grow a sunflower at home. Then, we'll plant it into a field.
 | A | needs protection from squirrels | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps |
 | E | already has one sunflower growing | Transplanting, Mailing or Pick-Up |
 | B | | Sunflower Seeds, Sprayer |
+| C | northeast Australia, has never seen sunflowers in the area | Mailing, Sunflower Seeds |
