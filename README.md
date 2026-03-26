@@ -16,4 +16,4 @@ Grow a sunflower at home with our Sunflower Kit. Then, send it back--we'll plant
 | 10 | IS | OG | Northern California (Crocket) | Nature-Based Homeschooling | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Mailing |
 | 11 | IG | New | Northern California (San Mateo) | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Mailing |
 | 12 | C | New | Georgia | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Mailing | 
-| 13 | | | | | |
+| 13 | E | OG | Los Angeles | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Pick-Up or Drop-Off |
