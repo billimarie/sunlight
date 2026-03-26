@@ -1,5 +1,5 @@
 # *sunlight
-Grow a sunflower at home. Then, we'll plant it into a field.
+Grow a sunflower at home with our Sunflower Kit. Then, send it back--we'll plant it into our community sunflower field.
 
 ## Cohort #1
 | # |Initial  | Status | Location |      Notes     |  Kit  |
