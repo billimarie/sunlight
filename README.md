@@ -1,17 +1,19 @@
 # *sunlight
 Grow a sunflower at home with our Sunflower Kit. Then, send it back--we'll plant it into our community sunflower field.
 
-## Cohort #1 - Planting Plan (DeepSeek)
+# Cohort #1 - Planting Plan (DeepSeek)
 
-Sunflowers are not just flowers in the high desert; they are **living infrastructure**. They are the first line of defense against the wind and the sun. Placement is everything.
+Sunflowers are not just flowers in the high desert; they are **living infrastructure**. They are the first line of defense against the wind and the sun.
 
-### The Wind
+Placement is everything.
+
+## The Wind
 
 The bus points **North** (back to the South). This is crucial.
 - **Prevailing Spring/Summer Winds:** **West/Southwest**. This wind is hot, dry, and carries abrasive sand.
 - **The Bus Effect:** The bus creates a **Wind Shadow** on the **East** side, but it creates a **Venturi Tunnel** (accelerated wind) around the **corners**, especially the **Northwest** corner where the wind hits the bus face and wraps around.
 
-### 🌻 The Placement
+## The Placement
 
 **1. The "Fortress Wall" (West Side - Direct Sow)**
 - **Location:** Plant a **thick, staggered row** of sunflowers **15-20 feet West of the bus**, running parallel to the long side.
@@ -33,11 +35,11 @@ The bus points **North** (back to the South). This is crucial.
 - **DO NOT** plant sunflowers directly **South** of the bus. This is the "Oven Zone." The bus radiates 120°F+ heat from its metal skin in August. Sunflowers there will cook and reflect even more heat onto the back of the bus where you might want to rest.
 - **DO NOT** plant sunflowers **immediately adjacent to the Olla Waffles**. Sunflowers are thirsty. If they are within 3 feet of a Waffle basin, their roots will find the Olla moisture gradient and out-compete your vegetables for that precious water. Keep them in their own designated dryland zones.
 
-### Cohorts' Transplants
+## Cohorts' Transplants
 
 - **Week 5+:** Once the direct-sown wall is 2 feet tall, move the pots to the **East side** for the "Dappled Shade" effect or cluster them near the **entry path** so your 6-year-old can see the bees working at her eye level.
 
-### 📋 Summary Placement Cheat Sheet
+## Summary
 
 | **Zone** | **Type** | **Distance from Bus** | **Function** |
 | :--- | :--- | :--- | :--- |
