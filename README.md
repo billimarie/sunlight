@@ -57,7 +57,7 @@ Direct sow in the ground **now**. The faster sunflowers establish a taproot, the
 |:-:|:-----------:|:-------:|:------:|:---------|:---------------|:------|
 | ✔️ | ✔️ | S | OG | Los Angeles | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps |
 | ✔️ | ✔️ | R | Supporter | Santa Barbara (Cuyama Valley) | already has sunflowers growing | Transplanting, Mailing or Pick-Up |
-| ✔️ | | AY | OG | Los Angeles | needs protection from squirrels | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Pick-Up or Drop-Off |
+| ✔️ | ✔️ | AY | OG | Los Angeles | needs protection from squirrels | Sunflower Seeds, Soil, Terra Cotta, Drop-Off |
 |  | | E | OG | Southern California | already has one sunflower growing | Transplanting, Mailing or Pick-Up |
 | ✔️ | ✔️ | B | OG | Los Angeles | | Sunflower Seeds, Soil |
 | ✔️ | | C | New | Northeast Australia | has never seen sunflowers in the area | Mailing, Sunflower Seeds |
