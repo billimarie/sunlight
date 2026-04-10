@@ -4,7 +4,7 @@ Grow a sunflower at home with our Sunflower Kit. Then, send it back--we'll plant
 ## Cohort #1
 | 1:1 | Delivered | Initial  | Status | Location |      Notes     |  Kit  |
 |:-:|:-----------:|:-------:|:------:|:---------|:---------------|:------|
-| ✔️ | ✔️ | S | OG | Los Angeles | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps |
+| ✔️ | ✔️ | SC | OG | Los Angeles | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps |
 | ✔️ | ✔️ | R | Supporter | Santa Barbara (Cuyama Valley) | already has sunflowers growing | Transplanting, Mailing or Pick-Up |
 | ✔️ | ✔️ | AY | OG | Los Angeles | needs protection from squirrels | Sunflower Seeds, Soil, Terra Cotta, Drop-Off |
 | ✖️ | | E | OG | Southern California | already has one sunflower growing | Transplanting, Mailing or Pick-Up |
@@ -12,6 +12,8 @@ Grow a sunflower at home with our Sunflower Kit. Then, send it back--we'll plant
 | ✔️ | | C | New | Northeast Australia | has never seen sunflowers in the area | Mailing, Sunflower Seeds |
 | ✔️ | | IS | OG | Northern California (Crocket) | Nature-Based Homeschooling | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Mailing |
 | ✔️ | ✔️ | E | OG | Los Angeles | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Pick-Up or Drop-Off |
+| | | SI | OG | Los Angeles | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Pick-Up or Drop-Off |
+| | | M | OG | Los Angeles | Earthworker | Sunflower Seeds, Soil, Biodegradable Planters, Worms, Drop-Off |
 
 ## Cohort #1 - Waitlist (No Response / Unable to 1:1)
 | 1:1 |Initial  | Status | Location |      Notes     |  Kit  |
@@ -20,7 +22,6 @@ Grow a sunflower at home with our Sunflower Kit. Then, send it back--we'll plant
 |  | J | New | Los Angeles | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Pick-Up or Drop-Off |
 |  | IG | New | Northern California (San Mateo) | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Mailing |
 |  | C | New | Georgia | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Mailing | 
-|  | M | OG | Los Angeles | Earthworker | Sunflower Seeds, Soil, Biodegradable Planters, Worms, Drop-Off |
 |  | C | Supporter | New Jersey | | Mailing, Sunflower Seeds |
 |  | AS | Supporter | Los Angeles | experienced at seed swaps, sprouts | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Pick-Up or Drop-Off |
 
