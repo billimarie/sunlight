@@ -10,10 +10,10 @@ Grow a sunflower at home with our Sunflower Kit. Then, send it back--we'll plant
 | ✖️ | | E | OG | Southern California | already has one sunflower growing | Transplanting, Mailing or Pick-Up |
 | ✔️ | ✔️ | B | OG | Los Angeles | | Sunflower Seeds, Soil |
 | ✔️ | | C | New | Northeast Australia | has never seen sunflowers in the area | Mailing, Sunflower Seeds |
-| ✔️ | | IS | OG | Northern California (Crocket) | Nature-Based Homeschooling | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Mailing |
+| ✔️ | ✔️ | IS | OG | Northern California (Crocket) | Nature-Based Homeschooling | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Mailing |
 | ✔️ | ✔️ | E | OG | Los Angeles | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Pick-Up or Drop-Off |
 | | | SI | OG | Los Angeles | | Sunflower Seeds, Soil, Terra Cotta, Reservoir Container, Worms, Sprayer, Scraps, Pick-Up or Drop-Off |
-| | | M | OG | Los Angeles | Earthworker | Sunflower Seeds, Soil, Biodegradable Planters, Worms, Drop-Off |
+| ✔️ | ✔️ | M | OG | Los Angeles | Earthworker | Sunflower Seeds, Soil, Biodegradable Planters, Worms, Drop-Off |
 
 ## Cohort #1 - Waitlist (No Response / Unable to 1:1)
 | 1:1 |Initial  | Status | Location |      Notes     |  Kit  |
